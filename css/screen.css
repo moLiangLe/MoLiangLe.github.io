@@ -390,6 +390,13 @@ margin on the iframe, cause it breaks stuff. */
     line-height: 0;
 }
 
+img.blog_header_logo {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 60px;
+    border-color: #FFFFFF;
+}
+
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
     margin: 10px 0 10px 0;
